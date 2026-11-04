@@ -1,1 +1,18 @@
-/* Add any custom CSS stylings you want here */
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#gif-container img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#fetch-gif-btn {
+    padding: 10px 25px;
+}
